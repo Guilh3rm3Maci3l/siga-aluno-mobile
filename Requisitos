@@ -1,0 +1,58 @@
+Requisitos Não Funcionais (RNF)
+RNF001 – Login
+O sistema deve permitir que usuários autenticados acessem suas contas com credenciais válidas.
+
+RNF002 – Segurança
+O sistema deve proteger os dados contra acesso não autorizado, garantindo confidencialidade, integridade e autenticação.
+
+RNF003 – Usabilidade
+A interface deve ser intuitiva e fácil de usar para alunos e funcionários da secretaria.
+
+RNF004 – Desempenho
+O sistema deve responder às solicitações em até 3 segundos, mesmo sob carga média.
+
+RNF005 – Disponibilidade
+O sistema deve estar disponível para uso 99,5% do tempo, exceto durante manutenções programadas.
+
+RNF006 – Compatibilidade
+O sistema deve funcionar corretamente nos principais navegadores web modernos (Chrome, Firefox, Edge, Safari).
+
+RNF007 – Manutenibilidade
+O sistema deve ser modular e bem documentado para facilitar atualizações e correções.
+
+RNF008 – Backup e Recuperação de Dados
+O sistema deve realizar backups automáticos diários e permitir recuperação rápida em caso de falhas.
+
+RNF009 – Conformidade ao Regulamento
+O sistema deve atender às normas e políticas acadêmicas vigentes da instituição.
+
+Requisitos Funcionais (RF)
+RF001 – Visualizar Disciplinas Matriculadas
+O aluno deve poder consultar a lista de disciplinas nas quais está matriculado.
+
+RF002 – Consultar Notas e Frequência
+O aluno deve poder acessar suas notas e frequência em cada disciplina.
+
+RF003 – Solicitar Documentos
+O aluno deve poder solicitar documentos acadêmicos pela plataforma.
+
+RF004 – Emitir Comprovante de Matrícula
+O sistema deve permitir a emissão do comprovante de matrícula para o aluno.
+
+RF005 – Realizar Matrícula em Disciplinas
+O aluno deve poder efetuar a matrícula nas disciplinas disponíveis para o semestre.
+
+RF006 – Trancar Matrícula
+O aluno deve poder solicitar o trancamento de matrícula em disciplinas específicas.
+
+RF007 – Solicitar Revisão de Nota
+O aluno deve poder solicitar revisão de nota após consultar suas avaliações.
+
+RF008 – Visualizar Mensagens/Comunicados
+O aluno e a secretaria devem poder visualizar comunicados importantes via sistema.
+
+RF009 – Avaliar Disciplinas/Professores
+O aluno deve poder realizar avaliações das disciplinas e professores cursados.
+
+RF010 – Atualizar Dados Pessoais
+O aluno deve poder atualizar seus dados cadastrais no sistema.
